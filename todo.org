@@ -1,0 +1,9 @@
+#+title: TODOs
+* Tasks
+
+- [ ] Design the first version of the site on paper -- make it simple!
+- [ ] Implement a way to represent UI components as simple data structures
+  - Remember =hiccup=.
+- [ ] Find a way to do SSR with Clojure
+  - It looks like you simply render the data as HTML and send it through
+    the wire?
