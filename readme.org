@@ -1,0 +1,11 @@
+#+title: A simple site
+#+subtitle: and why easy is not always good
+#+author: Diego Rodriguez
+#+date: <2022-11-25 Fri 00:16>
+
+* Purpose
+
+This repository has no purpose except the exploration of esoteric
+technologies, tools, and writing. Yes writing. And by writing I mean
+code and prose (maybe poetry, but that is too esoteric---even for me
+more).
